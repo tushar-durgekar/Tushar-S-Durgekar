@@ -1,4 +1,4 @@
-#Adani Enterprises Stock Market Analysis Dashboard.
+Adani Enterprises Stock Market Analysis Dashboard.
 Power BI Stock Market Dashboard using Adani Enterprises data
 This project presents an end-to-end stock market analysis of Adani Enterprises Limited using a fully interactive Power BI dashboard. The objective of the project was to explore stock price movement, volume behavior, quarterly patterns, and 52-week high/low metrics to understand overall market performance and trading activity across different time periods.
 
